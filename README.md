@@ -1,3 +1,8 @@
+#NMAP - SOC - ESSENTIALS
+A complete nmap guide meant to demonstrate how the recon tool works, with a particuarly focus on how it's used in SOC environments
+
+
+
 
 
  ________   _____ ______   ________  ________                           ________  ________  ________                                _______   ________   ________  _______   ________   _________  ___  ________  ___       ________      
@@ -11,5 +16,3 @@
                                                                                                                                                                                                                                           
                                                                                                                                                                                                                                           
 
-
-A complete nmap guide meant to demonstrate how the recon tool works, with a particuarly focus on how it's used in SOC environments
