@@ -2,7 +2,7 @@
 A complete nmap guide meant to demonstrate how the recon tool works, with a particuarly focus on how it's used in SOC environments
 
 
-'''
+```
 
 
  _   _ ___  ___  ___  ______            _____ _   _ ___________ _____ 
@@ -15,8 +15,7 @@ A complete nmap guide meant to demonstrate how the recon tool works, with a part
                                                                       
 
 
-'''
-               
+```
 
 
                                                                                                                                                                                                                                           
